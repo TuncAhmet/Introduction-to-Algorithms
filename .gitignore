@@ -34,3 +34,6 @@
 # SQL Server files
 *.mdf
 *.ldf
+
+.vs/
+out/

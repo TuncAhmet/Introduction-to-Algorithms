@@ -1,7 +1,7 @@
 ﻿// Algorithms.cpp : Defines the entry point for the application.
 //
 
-#include "Algorithms.h"
+#include <iostream>
 #include "MyAlgos/Sorting.h"
 
 using namespace std;
